@@ -1,0 +1,46 @@
+CaseID,PatientID,PatientName,DateOfBirth,HospitalID,HospitalName,HospitalCity,HospitalCountry,DoctorID,DoctorName,Specialization,DateOfAdmission,Outcome
+1,1,"Jane Smith",1985-04-12,1,"Nairobi Hospital",Nairobi,Kenya,1,"Dr. John Doe",Obstetrician,2024-08-01,Fatal
+2,2,"Alice Johnson",1990-07-25,2,"Mombasa General Hospital",Mombasa,Kenya,2,"Dr. Mary Smith",Gynecologist,2024-07-15,Survived
+3,3,"Emily Davis",1988-10-15,3,"Kisumu Medical Center",Kisumu,Kenya,3,"Dr. James Brown",Pediatrician,2024-06-30,Fatal
+4,4,"Sophia Brown",1992-01-30,4,"Eldoret Regional Hospital",Eldoret,Kenya,4,"Dr. Patricia Johnson",Obstetrician,2024-08-10,Survived
+5,5,"Olivia Miller",1987-06-22,5,"Thika Level 5 Hospital",Thika,Kenya,5,"Dr. Michael Williams",Surgeon,2024-08-05,Survived
+6,6,"Isabella Wilson",1991-09-05,6,"Kericho District Hospital",Kericho,Kenya,6,"Dr. Linda Davis",Gynecologist,2024-07-25,Fatal
+7,7,"Mia Moore",1994-03-17,7,"Garissa Provincial Hospital",Garissa,Kenya,7,"Dr. Robert Miller",Obstetrician,2024-08-12,Survived
+8,8,"Charlotte Taylor",1989-11-08,8,"Machakos Level 5 Hospital",Machakos,Kenya,8,"Dr. Jennifer Wilson",Pediatrician,2024-07-20,Fatal
+9,9,"Amelia Anderson",1993-05-19,9,"Kitui County Referral Hospital",Kitui,Kenya,9,"Dr. William Moore",Surgeon,2024-06-28,Survived
+10,10,"Harper Harris",1995-12-12,10,"Nakuru Level 5 Hospital",Nakuru,Kenya,10,"Dr. Elizabeth Taylor",Obstetrician,2024-08-07,Fatal
+11,11,"Evelyn Clark",1996-08-09,11,"Kakamega General Hospital",Kakamega,Kenya,11,"Dr. Charles Anderson",Gynecologist,2024-08-04,Survived
+12,12,"Avery Lewis",1992-02-14,12,"Bomet County Referral Hospital",Bomet,Kenya,12,"Dr. Susan Thomas",Surgeon,2024-07-22,Survived
+13,13,"Ella Martinez",1994-06-18,13,"Nyeri Provincial Hospital",Nyeri,Kenya,13,"Dr. Daniel Harris",Pediatrician,2024-08-08,Fatal
+14,14,"Grace Robinson",1986-04-29,14,"Isiolo General Hospital",Isiolo,Kenya,14,"Dr. Sarah Clark",Obstetrician,2024-08-11,Survived
+15,15,"Lily Walker",1993-11-23,15,"Lamu County Hospital",Lamu,Kenya,15,"Dr. Joseph Lewis",Gynecologist,2024-07-18,Fatal
+16,16,"Hannah Parker",1990-05-15,16,"Marsabit County Hospital",Marsabit,Kenya,16,"Dr. Laura Evans",Obstetrician,2024-07-10,Survived
+17,17,"Madison Carter",1988-08-12,17,"Kitale District Hospital",Kitale,Kenya,17,"Dr. George Walker",Gynecologist,2024-08-05,Fatal
+18,18,"Charlotte Lee",1992-02-07,18,"Bungoma Referral Hospital",Bungoma,Kenya,18,"Dr. Maria Young",Pediatrician,2024-06-28,Survived
+19,19,"Aubrey Hall",1991-11-21,19,"Nandi Hills Hospital","Nandi Hills",Kenya,19,"Dr. James Allen",Surgeon,2024-07-15,Survived
+20,20,"Scarlett Allen",1994-03-16,20,"Mwingi Level 4 Hospital",Mwingi,Kenya,20,"Dr. Lisa Scott",Obstetrician,2024-08-01,Fatal
+21,21,"Sophie Green",1989-09-04,21,"Voi District Hospital",Voi,Kenya,21,"Dr. David Adams",Gynecologist,2024-07-22,Survived
+22,22,"Chloe Adams",1993-07-11,22,"Embu County Referral Hospital",Embu,Kenya,22,"Dr. Rachel Nelson",Pediatrician,2024-08-12,Fatal
+23,23,"Ella Morris",1995-06-24,23,"Narok District Hospital",Narok,Kenya,23,"Dr. Andrew King",Surgeon,2024-06-30,Survived
+24,24,"Grace Carter",1992-10-09,24,"Kisii Level 5 Hospital",Kisii,Kenya,24,"Dr. Jessica Wright",Obstetrician,2024-07-18,Survived
+25,25,"Aria Bell",1987-12-03,25,"Kajiado County Hospital",Kajiado,Kenya,25,"Dr. Brian Green",Gynecologist,2024-08-03,Fatal
+26,26,"Zoe Foster",1991-01-28,26,"Wajir District Hospital",Wajir,Kenya,26,"Dr. Nicole Baker",Pediatrician,2024-07-25,Survived
+27,27,"Lila Campbell",1994-05-17,27,"Homabay Referral Hospital",Homabay,Kenya,27,"Dr. Matthew Hall",Surgeon,2024-08-10,Fatal
+28,28,"Nora Phillips",1988-11-30,28,"Nyamira Level 4 Hospital",Nyamira,Kenya,28,"Dr. Emily Adams",Obstetrician,2024-06-29,Survived
+29,29,"Mila Rodriguez",1993-02-22,29,"Bomet Level 5 Hospital",Bomet,Kenya,29,"Dr. John Lewis",Gynecologist,2024-07-05,Survived
+30,30,"Lucy Evans",1989-07-18,30,"Lamu County Hospital",Lamu,Kenya,30,"Dr. Hannah Davis",Pediatrician,2024-08-02,Fatal
+31,31,"Stella Watson",1995-09-14,31,"Laikipia Referral Hospital",Laikipia,Kenya,31,"Dr. Kevin White",Surgeon,2024-07-20,Survived
+32,32,"Maya Hughes",1992-04-27,32,"Tana River Level 4 Hospital","Tana River",Kenya,32,"Dr. Megan Moore",Obstetrician,2024-08-08,Fatal
+33,33,"Eleanor Cooper",1990-10-11,33,"Kericho District Hospital",Kericho,Kenya,33,"Dr. Thomas Harris",Gynecologist,2024-06-27,Survived
+34,34,"Avery Martinez",1987-08-05,34,"Maua Referral Hospital",Maua,Kenya,34,"Dr. Olivia Martin",Pediatrician,2024-07-14,Survived
+35,35,"Holly Stewart",1991-03-29,35,"Mbarara District Hospital",Mbarara,Kenya,35,"Dr. Daniel Lewis",Surgeon,2024-08-09,Fatal
+36,36,"Audrey Bell",1994-12-15,36,"Kapsabet Level 5 Hospital",Kapsabet,Kenya,36,"Dr. Alice Wilson",Obstetrician,2024-07-23,Survived
+37,37,"Natalie Morgan",1992-06-02,37,"Mwingi County Referral Hospital",Mwingi,Kenya,37,"Dr. Samuel Clark",Gynecologist,2024-08-11,Fatal
+38,38,"Layla James",1989-11-14,38,"Nyahururu District Hospital",Nyahururu,Kenya,38,"Dr. Laura Miller",Pediatrician,2024-06-26,Survived
+39,39,"Bella Brown",1993-07-09,39,"Kisumu County Hospital",Kisumu,Kenya,39,"Dr. Michael Robinson",Surgeon,2024-07-16,Survived
+40,40,"Lily Green",1988-09-24,40,"Nakuru Referral Hospital",Nakuru,Kenya,40,"Dr. Sarah Thompson",Obstetrician,2024-08-07,Fatal
+41,41,"Samantha Taylor",1995-05-21,41,"Kapenguria District Hospital",Kapenguria,Kenya,41,"Dr. Benjamin Hall",Gynecologist,2024-07-30,Survived
+42,42,"Hazel King",1994-01-16,42,"Kisii Referral Hospital",Kisii,Kenya,42,"Dr. Grace Harris",Pediatrician,2024-08-13,Fatal
+43,43,"Ivy Wright",1992-02-28,43,"Makueni County Referral Hospital",Makueni,Kenya,43,"Dr. Jacob Anderson",Surgeon,2024-06-30,Survived
+44,44,"Ruby Wood",1990-08-17,44,"Nandi District Hospital",Nandi,Kenya,44,"Dr. Lily Thompson",Obstetrician,2024-07-28,Survived
+45,45,"Alice Scott",1988-12-30,45,"Isiolo County Hospital",Isiolo,Kenya,45,"Dr. Ethan Young",Gynecologist,2024-08-04,Fatal
